@@ -1,1 +1,19 @@
+#Header{
+    background-color: green;
+}
 
+.nav-link{
+    color: white;
+}
+
+.fs-4{
+    color: white;
+}
+
+.page{
+    color:gold;
+}
+
+.d-block{
+    border-radius: 50%;
+}
