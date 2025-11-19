@@ -1,5 +1,5 @@
 #Header{
-    background-color: green;
+    background-color: seagreen;
 }
 
 .nav-link{
@@ -10,10 +10,15 @@
     color: white;
 }
 
-.page{
-    color:gold;
-}
-
 .d-block{
     border-radius: 50%;
+}
+
+body{
+    background-color: white;
+}
+
+.container-computerImage{
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
